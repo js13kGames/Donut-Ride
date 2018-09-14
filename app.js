@@ -20,7 +20,6 @@ function myAnimationFrame(){
 function colorChangeInterval(){
   isOffline = false;
   var carIndex = Math.floor(Math.random() * 10) + 1;
-  console.log(carIndex);
   if(carIndex % 3 == 0){
     isOffline = true;
   }
