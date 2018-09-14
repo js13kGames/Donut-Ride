@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Exo+2:900');
 :root{
   --bg: rgb(0, 243, 198);
   --font: #f6f6f6;
@@ -10,7 +9,7 @@
 * {
   margin:0; padding:0;
   box-sizing:border-box;
-  font-family: 'Exo 2', sans-serif;
+  font-family: sans-serif;
 }
 html, body {
   height:100%; 
